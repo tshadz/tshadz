@@ -6,7 +6,7 @@
 
 <br><br>
 
-Hi, I'm Thaís Sombra, a passionate Full Stack web developer student. My passion for software lies with dreaming up ideas and making them help people in your daily routine. I take great care in the experience, architecture, and code quality of the things I build. <br><br>
+Hi, I'm Thaís Sombra, a passionate Full Stack web developer student. My passion for software lies with dreaming up ideas and making them assist people in their daily routine. I take great care in the experience, architecture, and code quality of the things I build. <br><br>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **More things:**  
 - 🔭 I’m currently studying web development
