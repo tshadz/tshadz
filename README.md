@@ -7,7 +7,7 @@
 <br><br>
 
 Hi, I'm Thaís Sombra, a passionate Full Stack web developer student. My passion for software lies with dreaming up ideas and making them help people in your daily routine. I take great care in the experience, architecture, and code quality of the things I build. <br><br>
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **More things:**  
 - 🔭 I’m currently studying web development
 - 🌱 I’m currently learning React
@@ -24,4 +24,4 @@ Hi, I'm Thaís Sombra, a passionate Full Stack web developer student. My passion
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
