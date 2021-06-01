@@ -16,7 +16,6 @@ Hi, I'm Thaís Sombra, a passionate Full Stack web developer student. My passion
 - 📫 How to reach me: thais.sombra@hotmail.com
 - 💤 Boring fact: I am a chemical engineer with 6 years of experience in process mapping, continuous improvement and customer service
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: thais.sombra@hotmail.com
 - 📝 Resume:(in development)
 
 **Languages and Tools:**  
