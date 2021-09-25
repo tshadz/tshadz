@@ -1,5 +1,7 @@
 ## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
+
+Send me Hi on linkedin, let's be partnes!!
 <a href="https://www.linkedin.com/in/thais-sombra/">
   <img align="left" alt="Thaís LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -10,13 +12,13 @@ Hi, I'm Thaís Sombra, a passionate Full Stack web developer student. My passion
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **More things:**  
 - 🔭 I’m currently studying web development
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on react projects
-- 🤔 I’m looking for help with CSS, it's crazy
+- 🌱 I’m currently learning Tests with Jest!!
+- 👯 I’m looking to collaborate on node js projects
+- 🤔 I’m looking for help with tests!
 - 📫 How to reach me: thais.sombra@hotmail.com
 - 💤 Boring fact: I am a chemical engineer with 6 years of experience in process mapping, continuous improvement and customer service
-- 💬 Ask me about anything, I am happy to help;
-- 📝 Resume:(in development)
+- 💬 Ask me about anything, I am happy to help
+- 📝 Resume: <a href="https://www.canva.com/design/DAEo8yvmSZ8/p0ckIEleiFXYnuLzP109EA/view?utm_content=DAEo8yvmSZ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> CV - Thaís Backend </a>
 
 **Languages and Tools:**  
 
