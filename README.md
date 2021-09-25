@@ -12,7 +12,7 @@ Hi, I'm Thaís Sombra, a passionate Full Stack web developer student. My passion
 
 <br><br>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110f13036fb576ad8d1342cb18681cd11d0afb14aa&rid=giphy.gif&ct=g" width="500" height="320" />
   
 **More things:**  
 - 🔭 I’m currently studying web development
