@@ -16,7 +16,7 @@ Hi, I'm Thaís Sombra, a passionate Full Stack web developer student. My passion
   
 **More things:**  
 - 🔭 I’m currently studying web development
-- 🌱 I’m currently learning ServiceNow!!
+- 🌱 I’m currently learning Docker!!
 - 👯 I’m looking to collaborate on node js projects
 - 🤔 I’m looking for help with tests!
 - 💤 Boring fact: I am a chemical engineer with 6 years of experience in process mapping, continuous improvement and customer service
